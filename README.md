@@ -6,7 +6,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/auryreyes/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/auryreyes/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating an Microsoft Azure Account and Launching a Virtual Machine](https://github.com/auryreyes/azure-virtual-machine)
+  - [Creating an Microsoft Azure Account and Launching a Virtual Machine](https://github.com/auryreyes/create-azure-virtual-machine)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/auryreyes/azure-network-protocols)
   - [Virtual Private Networks (VPNs)](https://github.com/auryreyes/virtual-private-networks)
 
