@@ -1,4 +1,7 @@
-  <h1>Hi, I'm Aury, an <a href="https://www.linkedin.com/in/aury-reyes-79105120a/">IT Professional👋🏻</h1>
+<p align="center">
+<img src="https://i.imgur.com/0JYwLr1.png"/>
+</p>
+<h1>Hi, I'm Aury, an <a href="https://www.linkedin.com/in/aury-reyes-79105120a/">IT Professional👋🏻</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
   
