@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/0JYwLr1.png" height="70%" width="70%" alt="Banner"/>
+<img src="https://i.imgur.com/0JYwLr1.png" height="50%" width="50%" alt="Banner"/>
 </p>
 <h1>Hi, I'm Aury, an <a href="https://www.linkedin.com/in/aury-reyes-79105120a/">IT Professional👋🏻</h1>
 
